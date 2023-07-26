@@ -1,0 +1,114 @@
+body {
+    width:1440px ;
+    background-color:hsl(235, 18%, 26%) ;
+}
+.h{
+    color:black;
+    padding:0.5em;
+    font-weight:bold;
+    font-size:3rem;
+    margin-left:0.7em;
+    transform: translatey(-0.5em);
+}
+.content{
+    width:60%;
+    justfiy-content:center:
+    text-align:center;
+    background-color:white;
+    padding:5px;
+    margin:15em 20% 0em;
+    border-radius: 25px;
+}
+.para{
+    font-size:18px;
+    font-weight:2em;
+    padding:1em;
+    color:black;
+    transform: translatey(-4em);
+    margin-left:1em;
+    
+}
+
+table{
+    display :flex;
+    padding:10px;
+    
+}
+
+.list{
+    margin-left:1em;
+    font-size:18px;
+  
+}
+li{
+        list-style-image: url("assets/images/icon-list.svg");
+        padding:0.3em;
+        transform: translatey(-1.5em);
+}
+
+input{
+    margin-top:1em;
+    height:35px;
+    margin-left:1.5em;
+    display :flex;
+    width: 70%;
+    padding:2px;
+}
+.mail{
+    color:black;
+    font-size:18px;
+    padding:2px;
+    margin-left:2em;
+    font-weight:bold;
+}
+form{
+    padding:2px;
+}
+.btn{
+    margin-top:2em;
+    width:70%;
+    margin-left:1.5em;
+    background-color:hsl(4, 100%, 67%) ;
+    padding:2px;
+     height:40px; 
+     border-radius: 10px;
+     color:white;
+}
+.btn a{
+    text-decoration:none;
+    color:white;
+}
+
+
+.content2{
+    background-color:white;
+    width: 25%;
+    margin:50% 40% 50%;
+    justify-content: center;
+border-radius: 20px;
+   padding:1em;
+}
+.head2{
+    font-size:2rem;
+    color:black;
+    font-weight:700px;
+    margin-top:1em;
+}
+.btn2{
+    width:100%;
+    padding:1em;
+    background-color: hsl(235, 18%, 26%) ;
+    color:white;
+    border-radius: 10px;
+    margin-top:1em;
+    font-size:1rem;
+}
+.btn2:hover {
+    background-color:hsl(4, 100%, 67%);
+}
+.full{
+    padding:2em;
+}
+span{
+    font-weight:bold;
+}
